@@ -1,0 +1,14 @@
+.portfolio{
+    align-items: center;
+}
+.headerTitle{
+font-size: 50px;
+margin-top: 10px;
+}
+.headerDesc{
+    margin-top: 15;
+    text-align: center;
+    position: fixed;
+    font-size: 20px;
+
+}
