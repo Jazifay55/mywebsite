@@ -7,7 +7,7 @@ export default function Topbar() {
       <div className="topRight">
       <ul className="topLabels">
           <li className="topLabelItem">
-          <Link className="link" to="/home">
+          <Link className="link" to="/">
               HOME
             </Link>
           </li>

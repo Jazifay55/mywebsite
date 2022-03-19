@@ -15,12 +15,8 @@ const App = () => {
   let routes = useRoutes([
     { 
       path: '/', 
-      element: <div>Hello Index</div> 
+      element: <Home/>
     },
-    { 
-      path: 'home', 
-      element: <Home/>,
-   },
    { 
     path: 'experience', 
     element: <Experience/>,
